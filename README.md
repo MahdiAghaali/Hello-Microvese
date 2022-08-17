@@ -2,19 +2,19 @@
 
 # Hello Microverse
 
-> Getting started with Linters and Git
+> This is my project to getting started with Linters and Git. In this project I try to install Linters for HTML and CSS on my project and get familiar with GitHub flow. I try to document your work in a professional way.
 
 ## Built With
 
 - Html and Css
 
-## Authors
+## Author
 
-👤 **Author1**
+👤 **Mahdi Aghaali**
 
-- GitHub: [@githubhandle](https://github.com/MahdiAghaali)
-- Twitter: [@twitterhandle](https://twitter.com/Mohi_Aghaali)
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/mahdi-aghaali/)
+- GitHub: [@MahdiAghaali](https://github.com/MahdiAghaali)
+- Twitter: [@Mohi_Aghaali](https://twitter.com/Mohi_Aghaali)
+- LinkedIn: [mahdi-aghaali](https://www.linkedin.com/in/mahdi-aghaali/)
 
 ## 🤝 Contributing
 
@@ -25,3 +25,13 @@ Feel free to check the [issues page](../../issues/).
 ## Show your support
 
 Give a ⭐️ if you like this project!
+
+## Acknowledgments
+
+- Hat tip to anyone whose code was used
+- Inspiration
+- etc
+
+## 📝 License
+
+This project is [MIT](./MIT.md) licensed.
